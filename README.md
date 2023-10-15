@@ -2,7 +2,8 @@
 ## Introduction
 COVID-19 has had a global impact, including in the United States. Dashboards have been created to monitor the pandemic and help decision-makers. Cosmos DB and Power BI are used to create a COVID-19 dashboard in the United States. Cosmos DB is ideal for storing data thanks to its scalability and availability. Data can be stored in JSON and organized into collections for easy management. Power BI is a popular tool for visualizing data and connecting to Cosmos DB to display interactive charts. Users can filter data by state or date. The dashboard can include graphs, maps and comparisons to show trends and forecasts based on historical data.
 ## Designs and tools
-![image](https://github.com/KhalidElKassimi/BI-Dashboard-for-COVID-19-Case-Analysis-in-the-United-States/assets/110225378/e177bb79-dd75-4d79-89b2-7a2282ff02bb)
+![image](https://github.com/KhalidElKassimi/BI-Dashboard-for-COVID-19-Case-Analysis-in-the-United-States/assets/110225378/246bc2e3-a24f-4a1a-b5cb-acbc18e346b0)
+
 The Covid19 Data Visualization Project involves collecting, processing and visualizing Covid19 data in real-time using multiple tools and technologies. Here are the key steps involved in this project:
 1. Data Collection: Covid19 data is collected from the CovidTracking API using the Python programming language. The API provides real-time data on confirmed cases, deaths, and recoveries related to Covid19 for the United States.
 2. Sending data to Event Hub: The collected data is then sent to EventHub, a messaging and data streaming service in Azure. This allows data to be stored and processed in real time.
